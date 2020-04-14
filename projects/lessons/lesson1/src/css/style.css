@@ -1,0 +1,59 @@
+body {
+    background-color: #ffffe0;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 3px;
+    text-align: left;
+}
+
+h1,
+.act-h2 {
+    color: #cc0000;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 12px;
+}
+
+.small-h2 {
+    font-size: 10pt;
+    text-transform: uppercase;
+    font-size: small;
+}
+
+.act-h2 {
+    color: #cc0000;
+    font-size: large;
+    text-align: center;
+}
+
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.marker {
+    background-color: yellow;
+}
+
+.underline {
+    text-decoration-line: underline;
+}
+
+.inline {
+    text-decoration-line: line-through;
+}
